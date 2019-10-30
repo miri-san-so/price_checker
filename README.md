@@ -11,10 +11,14 @@ other sites will be added soon...
 - add your email
 - get acknowledge if the email is stored 
 
+ ![setup](https://github.com/miri-san-so/price_checker/blob/master/setup.gif)
+ 
 ## Running main file :smiley_cat:
 - run the main.py
 - enter the product links (max 5)
 - when the app will be restarted you will get a prompt and a mail
+
+ ![main file](https://github.com/miri-san-so/price_checker/blob/master/main.gif)
 
 ## features to be added :green_book:
 - run on windows start
